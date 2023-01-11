@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ConsoleApplication6.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ConsoleApplication6.cpp
+C:\Users\GalaXY\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(121): warning C4405: “add”: 标识符是保留字
+C:\Users\GalaXY\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(125,12): warning C4101: “b”: 未引用的局部变量
+  ConsoleApplication6.vcxproj -> C:\Users\GalaXY\source\repos\ConsoleApplication6\Debug\exeshellcode.exe

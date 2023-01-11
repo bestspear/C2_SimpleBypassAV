@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\GalaXY\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(124): warning C4405: “add”: 标识符是保留字
+C:\Users\GalaXY\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(128,12): warning C4101: “b”: 未引用的局部变量
+  ConsoleApplication6.vcxproj -> C:\Users\GalaXY\source\repos\ConsoleApplication6\Release\exeshellcode.exe

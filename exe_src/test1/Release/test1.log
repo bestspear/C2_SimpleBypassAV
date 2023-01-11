@@ -1,0 +1,7 @@
+﻿  test1.cpp
+C:\Users\GalaXY\source\repos\ConsoleApplication6\test1\test1.cpp(2,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test1.vcxproj -> C:\Users\GalaXY\source\repos\ConsoleApplication6\Release\test1.exe
